@@ -7,5 +7,4 @@ I should likely turn this into a library, and publish it on hex.pm, it isnt ther
 
 Demonstration is in the main function.
 
-## Installation
 
